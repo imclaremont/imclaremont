@@ -18,5 +18,7 @@
 - SAL(Sejong Algorithm Lab) 동아리 활동
 - 스파르타코딩클럽 서포터즈 르탄즈 3기
 
-### Qualifications
+### Certificate
+- 정보통신산업진흥원 자산등록증 1건 (ASSET_0012888)
+- 한국저작권위원회 저작권 1건 (240171-0007766)
 - TOPCIT 수준3(능숙형)
