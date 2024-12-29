@@ -8,7 +8,7 @@
 |2024 AI 챌린지|장려상|4위|5만원|MathWorks, IITP(정보통신기획평가원), Sejong University|
 |제18회 창의설계경진대회|우수상|2위|40만원|IITP(정보통신기획평가원), Sejong University|
 |2024 SW코딩경시대회|2등상|2위|70만원|IITP(정보통신기획평가원), Sejong University|
-|세종대학교 캠퍼스타운 창업 아이디어톤|우수상|4위|30만원|세종대학교 캠퍼스타운조성단|
+|세종대학교 캠퍼스타운 창업 아이디어톤|우수상|3위|30만원|세종대학교 캠퍼스타운조성단|
 |2023 SW코딩경시대회|금상|1위|10만원|Sejong University|
 
 ### Work Experience
