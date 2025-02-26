@@ -1,4 +1,4 @@
-## <img src="https://img.shields.io/badge/음악🎵-32CD32?style=flat-square" width="75" height="28"/> 이든 <img src="https://img.shields.io/badge/프로그램💻-3A5FCD?style=flat-square" width="110" height="28"/> 이든, 일단 만들어보며 배워가는 것을 좋아합니다 🔨🔨
+## <img src="https://img.shields.io/badge/음악🎵-32CD32?style=flat-square" width="75" height="28"/> 이든 <img src="https://img.shields.io/badge/프로그램💻-3A5FCD?style=flat-square" width="110" height="28"/> 이든, 일단 만들어보며 배워가는 것을 좋아합니다 :)
 
 ### Education
 - 세종대학교 전자정보통신공학, 컴퓨터공학 전공 [2019.03-2025.02]
