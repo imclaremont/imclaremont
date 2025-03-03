@@ -24,7 +24,7 @@
 - SAL(Sejong Algorithm Lab) 동아리 활동
   
 ### Others
-- SW자산뱅크 자산등록증 1건(ASSET_0012888), 한국저작권위원회 저작권 1건(C-2024-054319)
+- SW자산뱅크 자산등록증 1건(ASSET_0012888) / 한국저작권위원회 저작권 1건(C-2024-054319)
 - TOPCIT 수준3(능숙형)
 - 오픽 IH(Intermediate High)
 - 자작 앨범 2개 보유
