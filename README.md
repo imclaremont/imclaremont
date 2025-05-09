@@ -1,5 +1,3 @@
-## <strong>'음악'</strong>이든 <strong>'프로그램'</strong>이든, 일단 직접 만들어보며 배워가는 것을 좋아합니다 (:
-
 ### 🏫 Education
 - 세종대학교 전자정보통신공학, 컴퓨터공학 전공 [2019.03-2025.02]
 - SKALA 1기(SK C&C AI Leader Academy) [2025.02-2025.07]
