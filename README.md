@@ -4,7 +4,6 @@
 
 ### 💻 Experience
 - [(주)SK AX](https://www.skax.co.kr) AI 서비스 개발자 [2025.09 - ing]
-- [세종대학교 교양코딩실](https://classic.sejong.ac.kr) 실습조교 [2024.08-2024.12]
 - [(주)포트래이](https://portrai.io/ko) 데이터 라벨러 [2024.01-2024.02]
 - [(주)카닥](https://www.cardoc.co.kr) QA 엔지니어 [2021.09-2021.10, 2021.11-2021.12]
 
