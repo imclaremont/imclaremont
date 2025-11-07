@@ -3,7 +3,7 @@
 - SK C&C AI Leader Academy 1기 [2025.02-2025.07]
 
 ### 💻 Experience
-- [(주)SK AX](https://www.skax.co.kr) AI 서비스 개발자 [2025.09 - ing] [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
+- [(주)SK AX](https://www.skax.co.kr) AI 서비스 개발자 [2025.09 - ing] &nbsp;&nbsp; [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
 - [(주)포트래이](https://portrai.io/ko) 데이터 라벨러 [2024.01-2024.02]
 - [(주)카닥](https://www.cardoc.co.kr) QA 엔지니어 [2021.09-2021.10, 2021.11-2021.12]
 
