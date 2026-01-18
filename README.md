@@ -3,7 +3,7 @@
 - SK AI Leader Academy 1기 [2025.02. ~ 2025.07.]
 
 ### 💻 Experience
-- AI Software Engineer [@SK AX](https://www.skax.co.kr) [2025.09. ~ ing] &nbsp;&nbsp; [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
+- AI Software Engineer [@SK AX](https://www.skax.co.kr) [2025.09. ~ ing] &nbsp;&nbsp;&nbsp; [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
 
 ### 💽 Records
 |**날짜**|**🏳대회명🏳**|**수상🏆**|**순위🥇**|**주최**|
