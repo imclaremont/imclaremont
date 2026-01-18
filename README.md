@@ -3,12 +3,12 @@
 - SK AI Leader Academy 1기 [2025.02. ~ 2025.07.]
 
 ### 💻 Experience
-|**회사**|**직무**|**기간**|**고용형태**|**비고**|
-|:--:|:--:|:--:|:--:|:--:|
-|[SK(주) AX](https://www.skax.co.kr)|AI 서비스 개발자|2025.09. ~ ing|정규직|[GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)|
-|[세종대학교](https://www.sejong.ac.kr)|TA 조교|2024.08. ~ 2024.12.|아르바이트|교양코딩실 소속|
-|[포트래이](https://portrai.io/ko)|데이터 라벨러|2024.01. ~ 2024.02.|프리랜서||
-|[카닥](https://www.cardoc.co.kr)|QA 엔지니어|2021.09. ~ 2021.12.|계약직||
+|**회사**|**팀**|**직무**|**기간**|**고용형태**|**비고**|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|[SK AX](https://www.skax.co.kr)|AI서비스2팀|AI 엔지니어|2025.09. ~ ing|정규직|[GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)|
+|[세종대학교](https://www.sejong.ac.kr)|교양코딩실|TA 조교|2024.08. ~ 2024.12.|아르바이트||
+|[포트래이](https://portrai.io/ko)|Development 부서|데이터 라벨러|2024.01. ~ 2024.02.|프리랜서||
+|[카닥](https://www.cardoc.co.kr)|개발팀|QA 엔지니어|2021.09. ~ 2021.12.|계약직||
 
 ### 💽 Records
 |**날짜**|**🏳대회명🏳**|**수상🏆**|**순위🥇**|**주최**|
@@ -26,4 +26,4 @@
 ### 💾 Others
 - 한국저작권위원회 저작권 1건(C-2024-054319)
 - SW자산뱅크 자산 1건(ASSET_0012888)
-- TOPCIT 수준3(능숙형), 정보처리기사
+- 정보처리기사, TOPCIT 수준3(능숙형)
