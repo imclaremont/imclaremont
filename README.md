@@ -3,12 +3,7 @@
 - SK AI Leader Academy 1기 [2025.02. ~ 2025.07.]
 
 ### 💻 Experience
-|**회사**|**팀**|**직무**|**기간**|**고용형태**|**비고**|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|[SK AX](https://www.skax.co.kr)|AI서비스2팀|AI 개발자|2025.09. ~ ing|정규직|[GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)|
-|[세종대학교](https://www.sejong.ac.kr)|교양코딩실|TA 조교|2024.08. ~ 2024.12.|아르바이트||
-|[포트래이](https://portrai.io/ko)|Development 부서|데이터 라벨러|2024.01. ~ 2024.02.|프리랜서||
-|[카닥](https://www.cardoc.co.kr)|개발팀|QA 엔지니어|2021.09. ~ 2021.12.|계약직||
+- AI Software Engineer [@SK AX](https://www.skax.co.kr) [2025.09. ~ ing] &nbsp;&nbsp; [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
 
 ### 💽 Records
 |**날짜**|**🏳대회명🏳**|**수상🏆**|**순위🥇**|**주최**|
