@@ -1,6 +1,6 @@
 ### 🏫 Education
 - 세종대학교 전자정보통신공학, 컴퓨터공학 [2019.03-2025.02]
-- SK C&C AI Leader Academy 1기 [2025.02-2025.07]
+- SK AI Leader Academy 1기 [2025.02-2025.07]
 
 ### 💻 Experience
 - [(주)SK AX](https://www.skax.co.kr) AI 서비스 개발자 [2025.09 - ing] &nbsp;&nbsp; [GitHub](https://github.com/skax-hadongheon) / [GitLab](https://gitlab.com/skax-hadongheon)
