@@ -1,6 +1,3 @@
-![k-celebrate-slogan](https://k-celebrate-slogan.vercel.app/api?text1=%EC%B6%95%ED%95%98%ED%95%A9%EB%8B%88%EB%8B%A4&text2=%ED%95%98%EB%8F%99%ED%97%8C&text3=%EC%95%84%EB%AC%B4+%EC%9D%B4%EC%9C%A0+%EC%97%86%EC%9D%8C&text1Color=%23bf941d&text2Color=%23222222&text3Color=%23111827&text2StrokeColor=%23222222&text2StrokeWidth=2.5px&scale=1&emblemScale=0.75&theme=default)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ububtu&weight=600&duration=2000&pause=5000&color=000000&width=700&lines=Everyone+is+worthy+of+celebration%2C+for+no+reason+at+all)
-
 ### 🏫 Education
 - 세종대학교 전자정보통신공학, 컴퓨터공학 [2019.03. ~ 2025.02.]
 - SK AI Leader Academy 1기 [2025.02. ~ 2025.07.]
@@ -25,3 +22,6 @@
 - 한국저작권위원회 저작권 1건(C-2024-054319)
 - SW자산뱅크 자산 1건(ASSET_0012888)
 - 정보처리기사, TOPCIT 수준3(능숙형)
+
+![k-celebrate-slogan](https://k-celebrate-slogan.vercel.app/api?text1=%EC%B6%95%ED%95%98%ED%95%A9%EB%8B%88%EB%8B%A4&text2=%ED%95%98%EB%8F%99%ED%97%8C&text3=%EC%95%84%EB%AC%B4+%EC%9D%B4%EC%9C%A0+%EC%97%86%EC%9D%8C&text1Color=%23bf941d&text2Color=%23222222&text3Color=%23111827&text2StrokeColor=%23222222&text2StrokeWidth=2.5px&scale=1&emblemScale=0.75&theme=default)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ububtu&weight=600&duration=2000&pause=5000&color=000000&width=700&lines=Everyone+is+worthy+of+celebration%2C+for+no+reason+at+all)
